@@ -1,0 +1,7 @@
+.bought-list ul {
+    list-style: none;
+}
+
+.bought-list * {
+    padding: 0px 10px;
+}

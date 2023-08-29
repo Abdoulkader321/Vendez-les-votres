@@ -1,0 +1,25 @@
+.createItem {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 0.5px solid rgb(9, 90, 213);
+    margin: 3px;
+    padding: 2px
+}
+
+.createItem :first-child {
+    width: 70%;
+    text-align: center;
+}
+
+.createItem * {
+    margin: 0px 10px;
+}
+
+.createItem input{
+    width: 50px;
+}
+
+.createItem-parent span {
+    padding: 0 10px;
+}
